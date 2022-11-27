@@ -1,4 +1,4 @@
-# Formatejums:
+Formatejums:
 
 Uzvards Vards (skolēns), Klase
 Uzvards Vards (skolēns), Klase
