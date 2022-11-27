@@ -1,3 +1,5 @@
+# strada uz skoleniem
+
 # Formatejums:
 
 Uzvards Vards (skolēns), Klase
